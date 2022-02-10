@@ -16,4 +16,5 @@ body {
 
 .text span {
     color: darkred;
+    text-decoration: none;
 }
